@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\783850f4b1ce9941f2e95abf1b5004fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2a577b9fe0ab3a5bf67c3895ba66d2ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81474ff2fa83d32a57728964d5c832b7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2141b1607fba6c416b3d81673f84f04e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e412131c7923dc117742c47420e5d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\859dfa6a879a9f512ef9bb5014488db0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e39741115171e8f136a39dd0a7d19e49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b42b2f9ad64dede527950d0e8422088a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c669e90e2a48223edd351af39dc5ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aaaa48855f6047bffcb8cca754b1e3bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffe5480336ccb6a003a8d3a0c81caaf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8ecc9fb5a34cc9dc30779e3adf8eca84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\512aaf53d5d4e72db5e37d486a4de955\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4996d4446578c86d0087bc45b8b5b650\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45a222f2a29bc45d2192b914ee5e3dc5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4a1b1e8da4b8413d75c1d698be81fd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d41fc9eb51ad6df553d284dd35488a51\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:21:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81474ff2fa83d32a57728964d5c832b7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81474ff2fa83d32a57728964d5c832b7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\783850f4b1ce9941f2e95abf1b5004fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\783850f4b1ce9941f2e95abf1b5004fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2a577b9fe0ab3a5bf67c3895ba66d2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2a577b9fe0ab3a5bf67c3895ba66d2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81474ff2fa83d32a57728964d5c832b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81474ff2fa83d32a57728964d5c832b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2141b1607fba6c416b3d81673f84f04e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2141b1607fba6c416b3d81673f84f04e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e412131c7923dc117742c47420e5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e412131c7923dc117742c47420e5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\859dfa6a879a9f512ef9bb5014488db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\859dfa6a879a9f512ef9bb5014488db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e39741115171e8f136a39dd0a7d19e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e39741115171e8f136a39dd0a7d19e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b42b2f9ad64dede527950d0e8422088a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b42b2f9ad64dede527950d0e8422088a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c669e90e2a48223edd351af39dc5ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1c669e90e2a48223edd351af39dc5ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aaaa48855f6047bffcb8cca754b1e3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aaaa48855f6047bffcb8cca754b1e3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffe5480336ccb6a003a8d3a0c81caaf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ffe5480336ccb6a003a8d3a0c81caaf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8ecc9fb5a34cc9dc30779e3adf8eca84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8ecc9fb5a34cc9dc30779e3adf8eca84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\512aaf53d5d4e72db5e37d486a4de955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\512aaf53d5d4e72db5e37d486a4de955\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4996d4446578c86d0087bc45b8b5b650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4996d4446578c86d0087bc45b8b5b650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45a222f2a29bc45d2192b914ee5e3dc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45a222f2a29bc45d2192b914ee5e3dc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4a1b1e8da4b8413d75c1d698be81fd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4a1b1e8da4b8413d75c1d698be81fd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d41fc9eb51ad6df553d284dd35488a51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MattDillion15\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d41fc9eb51ad6df553d284dd35488a51\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MattDillion15\Desktop\MobileappDev\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
